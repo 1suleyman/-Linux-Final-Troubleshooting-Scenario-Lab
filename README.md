@@ -6,6 +6,8 @@ In this lab, I learned how to **transfer application files, extract and move dir
 
 ## 📋 Lab Overview
 
+<img width="1016" height="646" alt="CALESTON TECHNOLOGY" src="https://github.com/user-attachments/assets/b4e63e3c-91dd-4317-8633-3f0c1df75424" />
+
 **Goal:**
 
 * Transfer application code from local laptop to dev servers
@@ -194,3 +196,6 @@ sudo systemctl status mercury.service
 | Fix ownership          | ✅      | All files owned by `mercury`      |
 | Start app manually     | ✅      | Runs on 0.0.0.0:8000              |
 | Create systemd service | ✅      | Auto-start and restart on failure |
+
+![Caleston Technologies](https://github.com/user-attachments/assets/7e40f356-8e95-4e19-b748-df6083cccddc)
+
